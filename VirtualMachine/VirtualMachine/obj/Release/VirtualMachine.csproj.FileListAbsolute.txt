@@ -1,0 +1,16 @@
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\proj1.asm
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\proj2.asm
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\proj3.asm
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\proj4.asm
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\test1.asm
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\test_asm.txt
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\test_asm1.txt
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Resources\test_asm2.txt
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\Program.cs
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\VirtualMachine.cs
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\VirtualMachine.exe
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\bin\Release\VirtualMachine.pdb
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\obj\Release\VirtualMachine.csproj.CoreCompileInputs.cache
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\obj\Release\VirtualMachine.exe
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\obj\Release\VirtualMachine.pdb
+C:\Users\kjc80\OneDrive - my.uvu.edu\Homework Documents\Spring 2020\CS4380\Project1\VirtualMachine\VirtualMachine\obj\Release\VirtualMachine.csprojAssemblyReference.cache
